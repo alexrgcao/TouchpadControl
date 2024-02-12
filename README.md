@@ -5,7 +5,7 @@ The idea of the project is obtained from haptic touchpad implementation from HP 
 
 # Install
 Install through building through Visual Studio using Win32 \
-Require Administrative Privilage 
+Require Administrative Privilage, and winmm.lib
 
 # How to Use
 If first run the program, left click on tray icon and click Calibration. Move towards the bottom right corner of the touchpad to get the maximum dimension. \
